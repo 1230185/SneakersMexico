@@ -1,2 +1,2 @@
 # UPV - TigerDirect
-E-Bisness: TigerDirect.com demo.
+E-Business: TigerDirect.com demo.
