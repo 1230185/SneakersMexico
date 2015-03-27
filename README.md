@@ -1,3 +1,2 @@
-# UPV - TigerDirect.com
-E-Business site: demo of TigerDirect.
-http://104.236.1.139/
+# UPV - SneakersMexico
+E-Business site: http://45.55.184.91/
